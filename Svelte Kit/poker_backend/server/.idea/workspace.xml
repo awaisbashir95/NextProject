@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43b86cfe-6b2f-42c1-b603-a2c5e1e7fa95" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Backend/gift-2-crypto-main/app/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Backend/gift-2-crypto-main/app/.idea/app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Backend/gift-2-crypto-main/app/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Backend/gift-2-crypto-main/app/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Backend/gift-2-crypto-main/app/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Backend/gift-2-crypto-main/app/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Backend/gift-2-crypto-main/app/src/lib/graphQL/mutations/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Backend/gift-2-crypto-main/app/src/lib/graphQL/queries/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Backend/gift-2-crypto-main/app/src/routes/graphqlTest/index.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Backend/gift-2-crypto-main/app/src/stores/auth/authStore.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="20MeHIaOYuDdrX9BGEbZVSLpQOM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43b86cfe-6b2f-42c1-b603-a2c5e1e7fa95" name="Changes" comment="" />
+      <created>1635858795376</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635858795376</updated>
+      <workItem from="1635858796747" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
